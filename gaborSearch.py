@@ -14,6 +14,10 @@ from skimage.filters import gabor_kernel
 from tools.imtools import get_imlist
 from skimage import io
 
+# import PIL and pylab for plotting        
+from PIL import Image
+from pylab import *
+
 
 def compute_feats(image, kernels):
     feats = np.zeros((len(kernels), 2), dtype=np.double)
@@ -24,15 +28,23 @@ def compute_feats(image, kernels):
     return feats
 
 
-def match(feats, ref_feats):
-    min_error = np.inf
-    min_i = None
-    for i in range(ref_feats.shape[0]):
-        error = np.sum((feats - ref_feats[i, :])**2)
-        if error < min_error:
-            min_error = error
-            min_i = i
-    return min_i
+#def match(feats, ref_feats):
+#    min_error = np.inf
+#    min_i = None
+#    for i in range(ref_feats.shape[0]):
+#        error = np.sum((feats - ref_feats[i, :])**2)
+#        if error < min_error:
+#            min_error = error
+#            min_i = i
+#    return min_i
+
+def rank(feats, ref_feats):
+	dis = []
+	for i in range(ref_feats.shape[0]):
+		error = np.sum((feats - ref_feats[i, :])**2)
+		dis = dis+[error]
+		rankResult = sorted(range(len(dis)), key=lambda k: dis[k])
+	return rankResult
 
 
 # prepare filter bank kernels
@@ -69,68 +81,18 @@ for index,im in enumerate(images):
     ref_feats[index, :, :] = compute_feats(im, kernels) # ref_feats numpy.ndarray
 
 print('original: brick, match result: ', end='')
-feats = compute_feats(images[0], kernels)
-rank = match(feats, ref_feats)
+feats = compute_feats(images[1], kernels)
+rankRes = rank(feats, ref_feats)
 
-print('Rotated images matched against references using Gabor filter banks:')
+# Plot search result images
 
-print('original: brick, rotated: 30deg, match result: ', end='')
-feats = compute_feats(nd.rotate(brick, angle=190, reshape=False), kernels)
-print(image_names[match(feats, ref_feats)])
-
-print('original: brick, rotated: 70deg, match result: ', end='')
-feats = compute_feats(nd.rotate(brick, angle=70, reshape=False), kernels)
-print(image_names[match(feats, ref_feats)])
-
-print('original: grass, rotated: 145deg, match result: ', end='')
-feats = compute_feats(nd.rotate(grass, angle=145, reshape=False), kernels)
-print(image_names[match(feats, ref_feats)])
-
-
-def power(image, kernel):
-    # Normalize images for better comparison.
-    image = (image - image.mean()) / image.std()
-    return np.sqrt(nd.convolve(image, np.real(kernel), mode='wrap')**2 +
-                   nd.convolve(image, np.imag(kernel), mode='wrap')**2)
-
-# Plot a selection of the filter bank kernels and their responses.
-results = []
-kernel_params = []
-for theta in (0, 1):
-    theta = theta / 4. * np.pi
-    for frequency in (0.1, 0.4):
-        kernel = gabor_kernel(frequency, theta=theta)
-        params = 'theta=%d,\nfrequency=%.2f' % (theta * 180 / np.pi, frequency)
-        kernel_params.append(params)
-        # Save kernel and the power image for each image
-        results.append((kernel, [power(img, kernel) for img in images]))
-
-fig, axes = plt.subplots(nrows=5, ncols=4, figsize=(5, 6))
-plt.gray()
-
-fig.suptitle('Image responses for Gabor filter kernels', fontsize=12)
-
-axes[0][0].axis('off')
-
-# Plot original images
-for label, img, ax in zip(image_names, images, axes[0][1:]):
-    ax.imshow(img)
-    ax.set_title(label, fontsize=9)
-    ax.axis('off')
-
-for label, (kernel, powers), ax_row in zip(kernel_params, results, axes[1:]):
-    # Plot Gabor kernel
-    ax = ax_row[0]
-    ax.imshow(np.real(kernel), interpolation='nearest')
-    ax.set_ylabel(label, fontsize=7)
-    ax.set_xticks([])
-    ax.set_yticks([])
-
-    # Plot Gabor responses with the contrast normalized for each filter
-    vmin = np.min(powers)
-    vmax = np.max(powers)
-    for patch, ax in zip(powers, ax_row[1:]):
-        ax.imshow(patch, vmin=vmin, vmax=vmax)
-        ax.axis('off')
-
-plt.show()
+figure()
+nbr_results = len(rankRes)
+i = 1
+for index in rankRes:
+    subplot(5,floor(nbr_results/4),i)
+    rgbImg = io.imread(imlist[index])
+    imshow(rgbImg)
+    axis('off')
+    i = i+1
+show()
