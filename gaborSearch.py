@@ -68,6 +68,10 @@ ref_feats = np.zeros((len(images), len(kernels), 2), dtype=np.double)
 for index,im in enumerate(images):
     ref_feats[index, :, :] = compute_feats(im, kernels) # ref_feats numpy.ndarray
 
+print('original: brick, match result: ', end='')
+feats = compute_feats(images[0], kernels)
+rank = match(feats, ref_feats)
+
 print('Rotated images matched against references using Gabor filter banks:')
 
 print('original: brick, rotated: 30deg, match result: ', end='')
