@@ -19,7 +19,6 @@ from PIL import Image
 from pylab import *
 
 import time
-import os
 
 import pickle
 
@@ -31,25 +30,6 @@ def compute_feats(image, kernels):
         feats[k, 0] = filtered.mean()
         feats[k, 1] = filtered.var()
     return feats
-
-
-#def match(feats, ref_feats):
-#    min_error = np.inf
-#    min_i = None
-#    for i in range(ref_feats.shape[0]):
-#        error = np.sum((feats - ref_feats[i, :])**2)
-#        if error < min_error:
-#            min_error = error
-#            min_i = i
-#    return min_i
-
-def rank(feats, ref_feats):
-    dis = []
-    for i in range(ref_feats.shape[0]):
-        error = np.sum((feats - ref_feats[i, :])**2)
-        dis = dis+[error]
-        rankResult = sorted(range(len(dis)), key=lambda k: dis[k])
-    return rankResult
 
 
 # prepare filter bank kernels
@@ -65,28 +45,22 @@ for theta in range(4):
 imlist = get_imlist('./allInOne/')
 #imlist = get_imlist('./leatherImgs/')
 
-inputFeature = open('gaborFeature.pkl', 'rb')
-ref_feats = pickle.load(inputFeature)
-inputFeature.close()
-
 shrink = (slice(0, None, 3), slice(0, None, 3))
-img = img_as_float(np.asarray(Image.open(imlist[65]).convert('L')))[shrink]
+#brick = img_as_float(data.load('brick.png'))[shrink] # numpy.ndarray类型
+#grass = img_as_float(data.load('grass.png'))[shrink] # img_as_float为用255归一化到0-1
+#wall = img_as_float(data.load('rough-wall.png'))[shrink]
+#image_names = ('brick', 'grass', 'wall')
+#images = (brick, grass, wall) # tuple类型
+# prepare reference features
+ref_feats = np.zeros((len(imlist), len(kernels), 2), dtype=np.double)
+start_extractTime = time.time()
+for index,imName in enumerate(imlist):
+    print ("processing %s" % imName)
+    img = img_as_float(np.asarray(Image.open(imName).convert('L')))[shrink]
+    #img = img_as_float(io.imread(imName, as_grey=True))[shrink]
+    ref_feats[index, :, :] = compute_feats(img, kernels) # ref_feats numpy.ndarray
 
-feats = compute_feats(img, kernels)
-rankRes = rank(feats, ref_feats)
-
-# Plot search result images
-
-figure()
-nbr_results = len(rankRes)
-i = 1
-for index in rankRes:
-    ax = subplot(5,4,i)
-    ax.set_title(os.path.basename(imlist[index]))
-    rgbImg = io.imread(imlist[index])
-    imshow(rgbImg)
-    axis('off')
-    i = i+1
-    if i == 20:
-        break
-show()
+outputFeature = open('gaborFeature.pkl', 'wb')
+pickle.dump(ref_feats, outputFeature)
+outputFeature.close()
+print("--- finish extracting feature, it takes %s seconds ---" % (time.time() - start_extractTime))

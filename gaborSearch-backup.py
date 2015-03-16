@@ -17,11 +17,10 @@ from skimage import io
 # import PIL and pylab for plotting        
 from PIL import Image
 from pylab import *
+import numpy
 
 import time
 import os
-
-import pickle
 
 
 def compute_feats(image, kernels):
@@ -65,14 +64,39 @@ for theta in range(4):
 imlist = get_imlist('./allInOne/')
 #imlist = get_imlist('./leatherImgs/')
 
+shrink = (slice(0, None, 3), slice(0, None, 3))
+#brick = img_as_float(data.load('brick.png'))[shrink] # numpy.ndarray类型
+#grass = img_as_float(data.load('grass.png'))[shrink] # img_as_float为用255归一化到0-1
+#wall = img_as_float(data.load('rough-wall.png'))[shrink]
+#image_names = ('brick', 'grass', 'wall')
+#images = (brick, grass, wall) # tuple类型
+images = ()
+start_readingTime = time.time()
+for index,imName in enumerate(imlist):
+    print ("processing %s" % imName)
+    img = img_as_float(numpy.asarray(Image.open(imName).convert('L')))[shrink]
+    #img = img_as_float(io.imread(imName, as_grey=True))[shrink]
+    images = images+(img,)
+print("--- finish reading, it takes %s seconds ---" % (time.time() - start_readingTime))
+# prepare reference features
+#ref_feats = np.zeros((3, len(kernels), 2), dtype=np.double)
+#ref_feats[0, :, :] = compute_feats(brick, kernels) # ref_feats numpy.ndarray
+#ref_feats[1, :, :] = compute_feats(grass, kernels)
+#ref_feats[2, :, :] = compute_feats(wall, kernels)
+ref_feats = np.zeros((len(images), len(kernels), 2), dtype=np.double)
+start_extractTime = time.time()
+for index,im in enumerate(images):
+    ref_feats[index, :, :] = compute_feats(im, kernels) # ref_feats numpy.ndarray
+
+outputFeature = open('gaborFeature.pkl', 'wb')
+pickle.dump(ref_feats, outputFeature)
+output.close()
+print("--- finish extracting feature, it takes %s seconds ---" % (time.time() - start_extractTime))
+
 inputFeature = open('gaborFeature.pkl', 'rb')
 ref_feats = pickle.load(inputFeature)
-inputFeature.close()
 
-shrink = (slice(0, None, 3), slice(0, None, 3))
-img = img_as_float(np.asarray(Image.open(imlist[65]).convert('L')))[shrink]
-
-feats = compute_feats(img, kernels)
+feats = compute_feats(images[1], kernels)
 rankRes = rank(feats, ref_feats)
 
 # Plot search result images
