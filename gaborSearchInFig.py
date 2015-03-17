@@ -62,15 +62,14 @@ for theta in range(4):
                                           sigma_x=sigma, sigma_y=sigma))
             kernels.append(kernel)
 
-imlist = get_imlist('./allInOne/')
-#imlist = get_imlist('./leatherImgs/')
+imlist = get_imlist('./leatherImgs/')
 
 inputFeature = open('gaborFeature.pkl', 'rb')
 ref_feats = pickle.load(inputFeature)
 inputFeature.close()
 
 shrink = (slice(0, None, 3), slice(0, None, 3))
-img = img_as_float(np.asarray(Image.open(imlist[65]).convert('L')))[shrink]
+img = img_as_float(np.asarray(Image.open(imlist[0]).convert('L')))[shrink]
 
 feats = compute_feats(img, kernels)
 rankRes = rank(feats, ref_feats)

@@ -42,7 +42,7 @@ for theta in range(4):
                                           sigma_x=sigma, sigma_y=sigma))
             kernels.append(kernel)
 
-imlist = get_imlist('./allInOne/')
+imlist = get_imlist('./leatherImgs/')
 #imlist = get_imlist('./leatherImgs/')
 
 shrink = (slice(0, None, 3), slice(0, None, 3))
