@@ -2,15 +2,12 @@ from PIL import Image
 import os
  
 # open an image file (.bmp,.jpg,.png,.gif) you have in the working folder
-imageFile = "zFlowers.jpg"
-
 imgPath = './corel1k/'
 thumbnailsPath = './thumbnails/'
 imlist = [os.path.join(imgPath,f) for f in os.listdir(imgPath) if f.endswith('.jpg')]
 
 # adjust width and height to your needs
-width = 400
-height = 400
+(width, height) = (400,400)
 ext = ".jpg" 
  
 for index,imName in enumerate(imlist):

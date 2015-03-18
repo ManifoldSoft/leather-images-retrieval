@@ -43,7 +43,7 @@ for theta in range(5):                       #This parameter decides what kind o
             kernels.append(kernel)
 
 #imlist = get_imlist('./leatherImgs/')
-imlist = get_imlist('./corel1k/')
+imlist = get_imlist('./Brodatz/')
 
 shrink = (slice(0, None, 3), slice(0, None, 3))
 #brick = img_as_float(data.load('brick.png'))[shrink] # numpy.ndarray类型
