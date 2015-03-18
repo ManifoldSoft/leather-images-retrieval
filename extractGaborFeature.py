@@ -34,16 +34,16 @@ def compute_feats(image, kernels):
 
 # prepare filter bank kernels
 kernels = []
-for theta in range(4):
-    theta = theta / 4. * np.pi
-    for sigma in (1, 3):
+for theta in range(5):                       #This parameter decides what kind of features the filter responds to.
+    theta = theta / 5. * np.pi
+    for sigma in (1, 3, 5, 9):                          #This parameter controls the width of the Gaussian envelope used in the Gabor kernel. Here are a few results obtained by varying this parameter.
         for frequency in (0.05, 0.25):
             kernel = np.real(gabor_kernel(frequency, theta=theta,
-                                          sigma_x=sigma, sigma_y=sigma))
+                                          sigma_x=sigma, sigma_y=sigma))  
             kernels.append(kernel)
 
-imlist = get_imlist('./leatherImgs/')
 #imlist = get_imlist('./leatherImgs/')
+imlist = get_imlist('./corel1k/')
 
 shrink = (slice(0, None, 3), slice(0, None, 3))
 #brick = img_as_float(data.load('brick.png'))[shrink] # numpy.ndarray类型
