@@ -48,7 +48,7 @@ def rank(feats, ref_feats):
     for i in range(ref_feats.shape[0]):
         error = np.sum((feats - ref_feats[i, :])**2)
         dis = dis+[error]
-        rankResult = sorted(range(len(dis)), key=lambda k: dis[k])
+    rankResult = sorted(range(len(dis)), key=lambda k: dis[k])
     return rankResult
 
 
@@ -75,7 +75,6 @@ feats = compute_feats(img, kernels)
 rankRes = rank(feats, ref_feats)
 
 # Plot search result images
-
 figure()
 nbr_results = len(rankRes)
 i = 1
