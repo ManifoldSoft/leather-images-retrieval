@@ -18,10 +18,6 @@ from skimage import io
 from PIL import Image
 from pylab import *
 
-import time
-
-import pickle
-
 # prepare filter bank kernels
 kernels = []
 for theta in range(4):
@@ -32,8 +28,8 @@ for theta in range(4):
                                           sigma_x=sigma, sigma_y=sigma))
             kernels.append(kernel)
 
-imlist = get_imlist('./leatherImgs/')
 #imlist = get_imlist('./leatherImgs/')
+imlist = get_imlist('./corel1k-thumbnails/')
 
 shrink = (slice(0, None, 3), slice(0, None, 3))
 
