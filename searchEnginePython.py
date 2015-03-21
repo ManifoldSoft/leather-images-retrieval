@@ -36,8 +36,8 @@ class SearchDemo:
 
     def __init__(self):
         # load list of images
-        self.path = './corel1k/'
-        self.imlist = [os.path.join(self.path,f) for f in os.listdir(self.path) if f.endswith('.jpg')]
+        self.path = './Brodatz/'
+        self.imlist = [os.path.join(self.path,f) for f in os.listdir(self.path)]
         self.nbr_images = len(self.imlist)
         self.ndx = range(self.nbr_images)
 

@@ -1,23 +1,23 @@
 # -*- coding: utf-8 -*-
 
 from __future__ import print_function
-import numpy as np
-import matplotlib.pyplot as plt
 
 from pylab import *
 
-from skimage.transform import rotate
 from skimage.feature import local_binary_pattern
-from skimage import data
 from tools.imtools import get_imlist
 from PIL import Image
 
 import os
 from skimage import io
 
+import os.path
+
+import pickle
+
 # settings for LBP
 METHOD = 'uniform'
-radius = 2
+radius = 1
 n_points = 8 * radius
 
 
@@ -40,17 +40,27 @@ def match(refs, imgQuery):
     rankResult = sorted(range(len(scores)), key=lambda k: scores[k])
     return rankResult
 
+
 imlist = get_imlist('./Brodatz/')
 
 ref_feats = []
 
-for index,imName in enumerate(imlist):
-    print ("processing %s" % imName)
-    img = np.asarray(Image.open(imName).convert('L'))
-    imgLBP = local_binary_pattern(img, n_points, radius, METHOD)
-    ref_feats = ref_feats+[imgLBP]
+if os.path.exists('lbpFeature.pkl'):
+    inputFeature = open('lbpFeature.pkl', 'rb')
+    ref_feats = pickle.load(inputFeature)
+    print("--- finish load feature---")
+else:
+    for index, imName in enumerate(imlist):
+        print("processing %s" % imName)
+        img = np.asarray(Image.open(imName).convert('L'))
+        imgLBP = local_binary_pattern(img, n_points, radius, METHOD)
+        ref_feats = ref_feats + [imgLBP]
+    outputFeature = open('lbpFeature.pkl', 'wb')
+    pickle.dump(ref_feats, outputFeature)
+    outputFeature.close()
+    print("--- finish extracting lbp feature---")
 
-imgQuery = np.asarray(Image.open(imlist[120]).convert('L'))
+imgQuery = np.asarray(Image.open(imlist[400]).convert('L'))
 
 rankRes = match(ref_feats, imgQuery)
 
@@ -59,12 +69,12 @@ figure()
 nbr_results = len(rankRes)
 i = 1
 for index in rankRes:
-    ax = subplot(5,4,i)
+    ax = subplot(5, 4, i)
     ax.set_title(os.path.basename(imlist[index]))
     rgbImg = io.imread(imlist[index])
-    imshow(rgbImg,interpolation='nearest')
+    imshow(rgbImg, interpolation='nearest')
     axis('off')
-    i = i+1
+    i += 1
     if i == 20:
         break
 show()
