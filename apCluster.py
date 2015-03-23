@@ -22,13 +22,16 @@ n_bins = max(maxBins) + 1
 hists, _ = np.histogram(feats[0], normed=True, bins=n_bins, range=(0, n_bins))
 
 for feat in feats[1::]:
-    ref_hist, _ = np.histogram(feat, normed=True, bins=n_bins, range=(0, n_bins))
+    ref_hist, _ = np.histogram(feat, normed=False, bins=n_bins, range=(0, n_bins))
     hists = np.vstack((hists, ref_hist))
 
-# Compute Affinity Propagation
+# Compute Affinity Propagation clustering
 af = AffinityPropagation(preference=0.5).fit(hists)
 cluster_centers_indices = af.cluster_centers_indices_
 labels = af.labels_
+
+# k-means Clustering
+voc,distortion = kmeans(hists,2,1)
 
 n_clusters_ = len(cluster_centers_indices)
 

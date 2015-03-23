@@ -17,7 +17,7 @@ import pickle
 
 # settings for LBP
 METHOD = 'uniform'
-radius = 1
+radius = 2
 n_points = 8 * radius
 
 
@@ -40,8 +40,8 @@ def match(refs, imgQuery):
     rankResult = sorted(range(len(scores)), key=lambda k: scores[k])
     return rankResult
 
-
-imlist = get_imlist('./Brodatz/')
+imgDBpath = './leatherImgs/'
+imlist = [os.path.join(imgDBpath,f) for f in os.listdir(imgDBpath)]
 
 ref_feats = []
 
@@ -60,7 +60,7 @@ else:
     outputFeature.close()
     print("--- finish extracting lbp feature---")
 
-imgQuery = np.asarray(Image.open(imlist[400]).convert('L'))
+imgQuery = np.asarray(Image.open(imlist[1]).convert('L'))
 
 rankRes = match(ref_feats, imgQuery)
 
