@@ -13,12 +13,17 @@ from skimage import io
 
 import os.path
 
+import numpy as np
+
 import pickle
 
 # settings for LBP
 METHOD = 'uniform'
 radius = 2
 n_points = 8 * radius
+
+# 设置recall@number，即计算前多少的MAP
+recallAtK = 100
 
 
 def kullback_leibler_divergence(p, q):
@@ -48,7 +53,7 @@ ref_feats = []
 if os.path.exists('lbpFeature.pkl'):
     inputFeature = open('lbpFeature.pkl', 'rb')
     ref_feats = pickle.load(inputFeature)
-    print("--- finish load feature---")
+    print("--- finish loading feature---")
 else:
     for index, imName in enumerate(imlist):
         print("processing %s" % imName)
@@ -60,22 +65,45 @@ else:
     outputFeature.close()
     print("--- finish extracting lbp feature---")
 
-#imgQuery = np.asarray(Image.open(imlist[7]).convert('L'))
-imgQuery = np.asarray(Image.open(imgDBpath + '002_2_03.png').convert('L'))
+f = open('queryImgs.txt', "r")
+lines = [line.rstrip('\n') for line in f]
+f.close()
 
-rankRes = match(ref_feats, imgQuery)
+g = open('Brodatz111classes.txt', "r")
+classLabelsAndNum = [line.rstrip('\n') for line in g]
+g.close()
 
-# Plot search result images
-figure()
-nbr_results = len(rankRes)
-i = 1
-for index in rankRes:
-    ax = subplot(5, 4, i)
-    ax.set_title(os.path.basename(imlist[index]))
-    rgbImg = io.imread(imlist[index])
-    imshow(rgbImg, interpolation='nearest')
-    axis('off')
-    i += 1
-    if i == 20:
-        break
-show()
+classLabels = [line[:3] for line in classLabelsAndNum]
+
+AP = np.zeros((len(lines),))
+
+for idx, imName in enumerate(lines):
+    queryPath = imgDBpath + imName
+    imgQuery = np.asarray(Image.open(queryPath).convert('L'))
+    rankRes = match(ref_feats, imgQuery)
+    queryClass = imName[:3]
+    rankIDs = rankRes[:recallAtK]
+    right_query_results = 0
+    precision = np.zeros((recallAtK,))
+    for index, rankID in enumerate(rankIDs):
+        # 显示查询结果，用于验证AP计算是否正确
+        rank_index_class = os.path.basename(imlist[rankID])[:3]
+        #ax = subplot(5, 1, index + 1)
+        #ax.set_title(os.path.basename(imlist[rankID]))
+        #rgbImg = io.imread(imlist[rankID])
+        #axis('off')
+        #imshow(rgbImg, interpolation='nearest')
+        if queryClass == rank_index_class:
+            right_query_results += 1
+            precision[index] = right_query_results / float(index + 1)
+        else:
+            right_query_results += 0
+            precision[index] = 0.
+    #show()
+    indexer = classLabels.index(queryClass)
+    relateNums = classLabelsAndNum[indexer][4:]
+    AP[idx] = np.sum(precision) / float(relateNums)
+    print ("%s query's AP is %f" % (imName, AP[idx]))
+
+mAP = np.sum(AP) / len(lines)
+print ("mAP is %f" % mAP)

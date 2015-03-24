@@ -2,8 +2,1012 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7d650ffa-7a94-49fe-947f-90cafb6f6660" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/001_1_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/001_1_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/001_1_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/001_1_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/001_1_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/001_1_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/001_1_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/001_1_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/001_1_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/002_2_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/002_2_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/002_2_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/002_2_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/002_2_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/002_2_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/002_2_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/002_2_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/002_2_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/003_3_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/003_3_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/003_3_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/003_3_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/003_3_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/003_3_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/003_3_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/003_3_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/003_3_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/004_4_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/004_4_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/004_4_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/004_4_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/004_4_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/004_4_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/004_4_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/004_4_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/004_4_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/005_5_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/005_5_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/005_5_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/005_5_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/005_5_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/005_5_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/005_5_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/005_5_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/005_5_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/006_6_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/006_6_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/006_6_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/006_6_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/006_6_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/006_6_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/006_6_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/006_6_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/006_6_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/007_7_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/007_7_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/007_7_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/007_7_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/007_7_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/007_7_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/007_7_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/007_7_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/007_7_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/008_8_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/008_8_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/008_8_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/008_8_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/008_8_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/008_8_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/008_8_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/008_8_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/008_8_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/009_9_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/009_9_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/009_9_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/009_9_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/009_9_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/009_9_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/009_9_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/009_9_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/009_9_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/010_10_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/010_10_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/010_10_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/010_10_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/010_10_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/010_10_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/010_10_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/010_10_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/010_10_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/011_11_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/011_11_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/011_11_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/011_11_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/011_11_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/011_11_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/011_11_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/011_11_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/011_11_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/012_12_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/012_12_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/012_12_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/012_12_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/012_12_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/012_12_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/012_12_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/012_12_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/012_12_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/013_13_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/013_13_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/013_13_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/013_13_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/013_13_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/013_13_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/013_13_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/013_13_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/013_13_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/015_15_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/015_15_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/015_15_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/015_15_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/015_15_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/015_15_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/015_15_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/015_15_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/015_15_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/016_16_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/016_16_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/016_16_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/016_16_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/016_16_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/016_16_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/016_16_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/016_16_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/016_16_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/017_17_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/017_17_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/017_17_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/017_17_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/017_17_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/017_17_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/017_17_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/017_17_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/017_17_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/018_18_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/018_18_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/018_18_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/018_18_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/018_18_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/018_18_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/018_18_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/018_18_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/018_18_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/019_19_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/019_19_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/019_19_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/019_19_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/019_19_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/019_19_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/019_19_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/019_19_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/019_19_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/020_20_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/020_20_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/020_20_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/020_20_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/020_20_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/020_20_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/020_20_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/020_20_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/020_20_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/021_21_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/021_21_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/021_21_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/021_21_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/021_21_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/021_21_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/021_21_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/021_21_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/021_21_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/022_22_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/022_22_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/022_22_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/022_22_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/022_22_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/022_22_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/022_22_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/022_22_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/022_22_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/023_23_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/023_23_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/023_23_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/023_23_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/023_23_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/023_23_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/023_23_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/023_23_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/023_23_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/024_24_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/024_24_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/024_24_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/024_24_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/024_24_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/024_24_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/024_24_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/024_24_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/024_24_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/025_25_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/025_25_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/025_25_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/025_25_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/025_25_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/025_25_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/025_25_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/025_25_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/025_25_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/026_26_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/026_26_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/026_26_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/026_26_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/026_26_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/026_26_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/026_26_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/026_26_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/026_26_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/027_27_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/027_27_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/027_27_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/027_27_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/027_27_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/027_27_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/027_27_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/027_27_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/027_27_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/028_28_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/028_28_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/028_28_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/028_28_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/028_28_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/028_28_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/028_28_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/028_28_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/028_28_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/029_29_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/029_29_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/029_29_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/029_29_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/029_29_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/029_29_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/029_29_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/029_29_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/029_29_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/030_30_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/030_30_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/030_30_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/030_30_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/030_30_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/030_30_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/030_30_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/030_30_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/030_30_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/031_31_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/031_31_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/031_31_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/031_31_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/031_31_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/031_31_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/031_31_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/031_31_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/031_31_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/032_32_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/032_32_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/032_32_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/032_32_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/032_32_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/032_32_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/032_32_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/032_32_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/032_32_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/033_33_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/033_33_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/033_33_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/033_33_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/033_33_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/033_33_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/033_33_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/033_33_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/033_33_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/034_34_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/034_34_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/034_34_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/034_34_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/034_34_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/034_34_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/034_34_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/034_34_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/034_34_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/035_35_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/035_35_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/035_35_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/035_35_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/035_35_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/035_35_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/035_35_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/035_35_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/035_35_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/036_36_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/036_36_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/036_36_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/036_36_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/036_36_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/036_36_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/036_36_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/036_36_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/036_36_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/037_37_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/037_37_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/037_37_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/037_37_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/037_37_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/037_37_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/037_37_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/037_37_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/037_37_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/038_38_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/038_38_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/038_38_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/038_38_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/038_38_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/038_38_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/038_38_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/038_38_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/038_38_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/039_39_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/039_39_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/039_39_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/039_39_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/039_39_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/039_39_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/039_39_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/039_39_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/039_39_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/040_40_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/040_40_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/040_40_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/040_40_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/040_40_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/040_40_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/040_40_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/040_40_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/040_40_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/041_41_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/041_41_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/041_41_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/041_41_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/041_41_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/041_41_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/041_41_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/041_41_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/041_41_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/042_42_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/042_42_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/042_42_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/042_42_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/042_42_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/042_42_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/042_42_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/042_42_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/042_42_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/043_43_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/043_43_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/043_43_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/043_43_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/043_43_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/043_43_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/043_43_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/043_43_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/043_43_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/044_44_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/044_44_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/044_44_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/044_44_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/044_44_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/044_44_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/044_44_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/044_44_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/044_44_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/045_45_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/045_45_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/045_45_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/045_45_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/045_45_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/045_45_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/045_45_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/045_45_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/045_45_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/046_46_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/046_46_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/046_46_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/046_46_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/046_46_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/046_46_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/046_46_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/046_46_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/046_46_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/047_47_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/047_47_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/047_47_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/047_47_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/047_47_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/047_47_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/047_47_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/047_47_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/047_47_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/048_48_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/048_48_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/048_48_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/048_48_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/048_48_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/048_48_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/048_48_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/048_48_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/048_48_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/049_49_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/049_49_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/049_49_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/049_49_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/049_49_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/049_49_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/049_49_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/049_49_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/049_49_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/050_50_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/050_50_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/050_50_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/050_50_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/050_50_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/050_50_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/050_50_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/050_50_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/050_50_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/051_51_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/051_51_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/051_51_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/051_51_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/051_51_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/051_51_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/051_51_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/051_51_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/051_51_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/052_52_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/052_52_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/052_52_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/052_52_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/052_52_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/052_52_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/052_52_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/052_52_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/052_52_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/053_53_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/053_53_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/053_53_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/053_53_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/053_53_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/053_53_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/053_53_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/053_53_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/053_53_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/054_54_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/054_54_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/054_54_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/054_54_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/054_54_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/054_54_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/054_54_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/054_54_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/054_54_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/055_55_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/055_55_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/055_55_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/055_55_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/055_55_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/055_55_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/055_55_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/055_55_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/055_55_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/056_56_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/056_56_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/056_56_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/056_56_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/056_56_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/056_56_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/056_56_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/056_56_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/056_56_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/057_57_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/057_57_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/057_57_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/057_57_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/057_57_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/057_57_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/057_57_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/057_57_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/057_57_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/058_58_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/058_58_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/058_58_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/058_58_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/058_58_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/058_58_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/058_58_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/058_58_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/058_58_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/059_59_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/059_59_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/059_59_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/059_59_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/059_59_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/059_59_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/059_59_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/059_59_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/059_59_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/060_60_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/060_60_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/060_60_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/060_60_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/060_60_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/060_60_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/060_60_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/060_60_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/060_60_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/061_61_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/061_61_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/061_61_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/061_61_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/061_61_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/061_61_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/061_61_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/061_61_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/061_61_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/062_62_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/062_62_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/062_62_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/062_62_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/062_62_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/062_62_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/062_62_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/062_62_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/062_62_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/063_63_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/063_63_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/063_63_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/063_63_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/063_63_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/063_63_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/063_63_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/063_63_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/063_63_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/064_64_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/064_64_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/064_64_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/064_64_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/064_64_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/064_64_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/064_64_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/064_64_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/064_64_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/065_65_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/065_65_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/065_65_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/065_65_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/065_65_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/065_65_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/065_65_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/065_65_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/065_65_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/066_66_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/066_66_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/066_66_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/066_66_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/066_66_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/066_66_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/066_66_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/066_66_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/066_66_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/067_67_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/067_67_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/067_67_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/067_67_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/067_67_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/067_67_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/067_67_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/067_67_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/067_67_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/068_68_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/068_68_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/068_68_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/068_68_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/068_68_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/068_68_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/068_68_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/068_68_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/068_68_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/069_69_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/069_69_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/069_69_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/069_69_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/069_69_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/069_69_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/069_69_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/069_69_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/069_69_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/070_70_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/070_70_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/070_70_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/070_70_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/070_70_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/070_70_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/070_70_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/070_70_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/070_70_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/071_71_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/071_71_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/071_71_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/071_71_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/071_71_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/071_71_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/071_71_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/071_71_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/071_71_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/072_72_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/072_72_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/072_72_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/072_72_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/072_72_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/072_72_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/072_72_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/072_72_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/072_72_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/073_73_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/073_73_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/073_73_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/073_73_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/073_73_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/073_73_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/073_73_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/073_73_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/073_73_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/074_74_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/074_74_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/074_74_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/074_74_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/074_74_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/074_74_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/074_74_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/074_74_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/074_74_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/075_75_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/075_75_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/075_75_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/075_75_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/075_75_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/075_75_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/075_75_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/075_75_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/075_75_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/076_76_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/076_76_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/076_76_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/076_76_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/076_76_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/076_76_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/076_76_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/076_76_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/076_76_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/077_77_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/077_77_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/077_77_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/077_77_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/077_77_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/077_77_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/077_77_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/077_77_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/077_77_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/078_78_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/078_78_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/078_78_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/078_78_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/078_78_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/078_78_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/078_78_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/078_78_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/078_78_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/079_79_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/079_79_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/079_79_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/079_79_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/079_79_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/079_79_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/079_79_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/079_79_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/079_79_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/080_80_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/080_80_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/080_80_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/080_80_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/080_80_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/080_80_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/080_80_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/080_80_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/080_80_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/081_81_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/081_81_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/081_81_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/081_81_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/081_81_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/081_81_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/081_81_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/081_81_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/081_81_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/082_82_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/082_82_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/082_82_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/082_82_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/082_82_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/082_82_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/082_82_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/082_82_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/082_82_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/083_83_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/083_83_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/083_83_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/083_83_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/083_83_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/083_83_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/083_83_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/083_83_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/083_83_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/084_84_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/084_84_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/084_84_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/084_84_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/084_84_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/084_84_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/084_84_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/084_84_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/084_84_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/085_85_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/085_85_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/085_85_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/085_85_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/085_85_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/085_85_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/085_85_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/085_85_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/085_85_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/086_86_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/086_86_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/086_86_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/086_86_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/086_86_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/086_86_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/086_86_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/086_86_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/086_86_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/087_87_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/087_87_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/087_87_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/087_87_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/087_87_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/087_87_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/087_87_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/087_87_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/087_87_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/088_88_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/088_88_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/088_88_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/088_88_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/088_88_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/088_88_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/088_88_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/088_88_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/088_88_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/089_89_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/089_89_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/089_89_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/089_89_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/089_89_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/089_89_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/089_89_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/089_89_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/089_89_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/090_90_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/090_90_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/090_90_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/090_90_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/090_90_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/090_90_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/090_90_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/090_90_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/090_90_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/091_91_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/091_91_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/091_91_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/091_91_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/091_91_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/091_91_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/091_91_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/091_91_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/091_91_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/092_92_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/092_92_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/092_92_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/092_92_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/092_92_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/092_92_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/092_92_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/092_92_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/092_92_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/093_93_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/093_93_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/093_93_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/093_93_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/093_93_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/093_93_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/093_93_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/093_93_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/093_93_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/094_94_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/094_94_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/094_94_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/094_94_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/094_94_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/094_94_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/094_94_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/094_94_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/094_94_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/095_95_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/095_95_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/095_95_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/095_95_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/095_95_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/095_95_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/095_95_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/095_95_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/095_95_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/096_96_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/096_96_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/096_96_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/096_96_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/096_96_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/096_96_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/096_96_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/096_96_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/096_96_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/097_97_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/097_97_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/097_97_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/097_97_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/097_97_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/097_97_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/097_97_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/097_97_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/097_97_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/098_98_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/098_98_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/098_98_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/098_98_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/098_98_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/098_98_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/098_98_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/098_98_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/098_98_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/099_99_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/099_99_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/099_99_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/099_99_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/099_99_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/099_99_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/099_99_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/099_99_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/099_99_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/100_100_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/100_100_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/100_100_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/100_100_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/100_100_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/100_100_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/100_100_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/100_100_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/100_100_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/101_101_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/101_101_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/101_101_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/101_101_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/101_101_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/101_101_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/101_101_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/101_101_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/101_101_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/102_102_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/102_102_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/102_102_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/102_102_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/102_102_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/102_102_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/102_102_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/102_102_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/102_102_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/103_103_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/103_103_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/103_103_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/103_103_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/103_103_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/103_103_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/103_103_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/103_103_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/103_103_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/104_104_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/104_104_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/104_104_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/104_104_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/104_104_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/104_104_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/104_104_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/104_104_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/104_104_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/105_105_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/105_105_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/105_105_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/105_105_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/105_105_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/105_105_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/105_105_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/105_105_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/105_105_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/106_106_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/106_106_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/106_106_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/106_106_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/106_106_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/106_106_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/106_106_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/106_106_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/106_106_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/107_107_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/107_107_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/107_107_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/107_107_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/107_107_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/107_107_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/107_107_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/107_107_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/107_107_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/108_108_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/108_108_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/108_108_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/108_108_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/108_108_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/108_108_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/108_108_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/108_108_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/108_108_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/109_109_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/109_109_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/109_109_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/109_109_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/109_109_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/109_109_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/109_109_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/109_109_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/109_109_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/110_110_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/110_110_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/110_110_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/110_110_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/110_110_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/110_110_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/110_110_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/110_110_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/110_110_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/111_111_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/111_111_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/111_111_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/111_111_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/111_111_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/111_111_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/111_111_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/111_111_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/111_111_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/112_112_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/112_112_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/112_112_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/112_112_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/112_112_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/112_112_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/112_112_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/112_112_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brodatz/112_112_09.png" />
+      <change type="DELETED" beforePath="D:\github\leather-images-retrieval\test.txt" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/movefiles.py" afterPath="$PROJECT_DIR$/movefiles.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/queryImgs.txt" afterPath="$PROJECT_DIR$/queryImgs.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/searchByLBP.py" afterPath="$PROJECT_DIR$/searchByLBP.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/texture-search.iml" afterPath="$PROJECT_DIR$/.idea/texture-search.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="texture-search.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -17,7 +1021,9 @@
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/texture-search$extractLBP.coverage" NAME="extractLBP Coverage Results" MODIFIED="1426869445642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/texture-search$searchByLBP.coverage" NAME="searchByLBP Coverage Results" MODIFIED="1427198902386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/texture-search$compute_MAP.coverage" NAME="compute_MAP Coverage Results" MODIFIED="1427206796560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/texture-search$extractLBP.coverage" NAME="extractLBP Coverage Results" MODIFIED="1427194957509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -36,32 +1042,27 @@
     <favorites_list name="texture-search" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="extractLBP.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/extractLBP.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.81602377" vertical-offset="761" max-vertical-offset="1368">
-              <caret line="27" column="55" selection-start-line="27" selection-start-column="55" selection-end-line="27" selection-end-column="55" />
-              <folding>
-                <element signature="e#25#62#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/searchByLBP.py" />
+        <option value="$PROJECT_DIR$/compute_MAP.py" />
+      </list>
+    </option>
   </component>
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="51" />
-    <option name="y" value="24" />
-    <option name="width" value="1315" />
-    <option name="height" value="744" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1456" />
+    <option name="height" value="876" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -86,6 +1087,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -100,13 +1102,12 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="texture-search" />
+              <option name="myItemId" value="leather-images-retrieval" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -123,7 +1124,7 @@
       <console-settings />
     </option>
   </component>
-  <component name="RunManager" selected="Python.extractLBP">
+  <component name="RunManager" selected="Python.compute_MAP">
     <configuration default="false" name="extractLBP" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -138,6 +1139,50 @@
       <module name="texture-search" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/extractLBP.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <RunnerSettings RunnerId="PyDebugRunner" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PyDebugRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="compute_MAP" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="texture-search" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/compute_MAP.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <RunnerSettings RunnerId="PyDebugRunner" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PyDebugRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="searchByLBP" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="texture-search" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/searchByLBP.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <RunnerSettings RunnerId="PyDebugRunner" />
@@ -334,12 +1379,16 @@
       <envs />
       <method />
     </configuration>
-    <list size="1">
+    <list size="3">
       <item index="0" class="java.lang.String" itemvalue="Python.extractLBP" />
+      <item index="1" class="java.lang.String" itemvalue="Python.compute_MAP" />
+      <item index="2" class="java.lang.String" itemvalue="Python.searchByLBP" />
     </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Python.extractLBP" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Python.compute_MAP" />
+        <item index="1" class="java.lang.String" itemvalue="Python.searchByLBP" />
+        <item index="2" class="java.lang.String" itemvalue="Python.extractLBP" />
       </list>
     </recent_temporary>
   </component>
@@ -357,22 +1406,22 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="51" y="24" width="1315" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32852563" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32823366" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32852563" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.328" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25334382" sideWeight="0.4992" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23783033" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32684284" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.260745" sideWeight="0.4992" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296617" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25334382" sideWeight="0.5008" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.41346154" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.42420027" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -410,27 +1459,59 @@
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="6" />
+      <option name="time" value="22" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
         <watch expression="radius" language="Python" />
+        <watch expression="queryPath" language="Python" />
+        <watch expression="idx" language="Python" />
+        <watch expression="rankRes" language="Python" />
+        <watch expression="rankIDs" language="Python" />
+        <watch expression="precision" language="Python" />
+        <watch expression="index" language="Python" />
+        <watch expression="rank_index_class" language="Python" />
+        <watch expression="queryClass" language="Python" />
+        <watch expression="right_query_results" language="Python" />
+        <watch expression="indexer" language="Python" />
+        <watch expression="relateNums" language="Python" />
+        <watch expression="len(AP)" language="Python" />
+        <watch expression="np.sum(precision)/float(relateNums)" language="Python" />
+        <watch expression="AP[0]" language="Python" />
+        <watch expression="AP[idx] = np.sum(precision)/float(relateNums)" language="Python" />
+        <watch expression="AP[0]=0.5555555556" language="Python" />
       </configuration>
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+    <entry file="file://$PROJECT_DIR$/compute_MAP.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="6.6569037" vertical-offset="28037" max-vertical-offset="40122">
-          <caret line="1650" column="26" selection-start-line="1650" selection-start-column="26" selection-end-line="1650" selection-end-column="26" />
-          <folding />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2166">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#25#62#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/extractLBP.py">
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.81602377" vertical-offset="761" max-vertical-offset="1368">
-          <caret line="27" column="55" selection-start-line="27" selection-start-column="55" selection-end-line="27" selection-end-column="55" />
+        <state vertical-scroll-proportion="0.33157894" vertical-offset="31015" max-vertical-offset="42275">
+          <caret line="1642" column="0" selection-start-line="1642" selection-start-column="0" selection-end-line="1642" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/searchByLBP.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2901099" vertical-offset="1198" max-vertical-offset="1653">
+          <caret line="70" column="5" selection-start-line="70" selection-start-column="5" selection-end-line="70" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/compute_MAP.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.17148362" vertical-offset="1590" max-vertical-offset="2185">
+          <caret line="79" column="34" selection-start-line="79" selection-start-column="34" selection-end-line="79" selection-end-column="34" />
           <folding>
             <element signature="e#25#62#0" expanded="true" />
           </folding>

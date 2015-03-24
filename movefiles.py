@@ -7,6 +7,8 @@ import shutil
 import random
 import math
 
+query_number_percent = 0.5 # 设置每类拿百分之多少出来作为查询
+
 directory = "Brodatz"  # 设置新路径
 
 if not os.path.exists(directory):
@@ -23,7 +25,8 @@ for root, dirs, files in os.walk('Brodatz111classes'):
         str_the_path = '/'.join([root, str_each_folder])
 
         files_number = len(fnmatch.filter(os.listdir(str_the_path), '*.png'))
-        index = random.sample(range(0, files_number), int(math.floor(0.5*files_number)))
+        # 生成查询图片实例
+        index = random.sample(range(0, files_number), int(math.floor(query_number_percent*files_number)))
         # list all the files using directory path
         for ind, str_each_file in enumerate(os.listdir(str_the_path)):
             # look for the files we want
