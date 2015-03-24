@@ -8,6 +8,9 @@ import numpy as np
 from sklearn.cluster import AffinityPropagation
 import os
 
+from numpy import *
+from scipy.cluster.vq import *
+
 num_clusters = 8
 
 imlist = get_imlist('./leatherImgs/')
