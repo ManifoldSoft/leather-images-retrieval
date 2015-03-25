@@ -19,7 +19,7 @@ import pickle
 
 # settings for LBP
 METHOD = 'uniform'
-radius = 2
+radius = 5
 n_points = 8 * radius
 
 # 设置recall@number，即计算前多少的MAP
