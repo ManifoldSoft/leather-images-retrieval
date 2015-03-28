@@ -18,8 +18,6 @@ from skimage import io
 from PIL import Image
 from pylab import *
 
-import time
-
 import pickle
 
 
@@ -31,36 +29,28 @@ def compute_feats(image, kernels):
         feats[k, 1] = filtered.var()
     return feats
 
-
 # prepare filter bank kernels
 kernels = []
 for theta in range(5):                       # This parameter decides what kind of features the filter responds to.
     theta = theta / 5. * np.pi
-    for sigma in (1, 3, 5, 9, 11, 13, 15, 17):       #  This parameter controls the width of the Gaussian envelope used in the Gabor kernel. Here are a few results obtained by varying this parameter.
-        for frequency in (0.05, 0.25):
-            kernel = np.real(gabor_kernel(frequency, theta=theta,
-                                          sigma_x=sigma, sigma_y=sigma))  
-            kernels.append(kernel)
+    for sigma in (1, 2, 3, 4):       #  This parameter controls the width of the Gaussian envelope used in the Gabor kernel. Here are a few results obtained by varying this parameter.
+        #for frequency in (0.05):
+        kernel = np.real(gabor_kernel(0.05, theta=theta, sigma_x=sigma, sigma_y=sigma))  
+        kernels.append(kernel)
 
-# imlist = get_imlist('./leatherImgs/')
-imlist = get_imlist('./Brodatz/')
+imlist = get_imlist('./leatherImgs/')
+# imlist = get_imlist('./Brodatz/')
 
-shrink = (slice(0, None, 3), slice(0, None, 3))
-# brick = img_as_float(data.load('brick.png'))[shrink] # numpy.ndarray类型
-# grass = img_as_float(data.load('grass.png'))[shrink] # img_as_float为用255归一化到0-1
-# wall = img_as_float(data.load('rough-wall.png'))[shrink]
-# image_names = ('brick', 'grass', 'wall')
-# images = (brick, grass, wall) # tuple类型
 # prepare reference features
-ref_feats = np.zeros((len(imlist), len(kernels), 2), dtype=np.double)
-start_extractTime = time.time()
+feats = np.zeros((len(imlist), len(kernels), 2), dtype=np.double)
 for index,imName in enumerate(imlist):
     print ("processing %s" % imName)
-    img = img_as_float(np.asarray(Image.open(imName).convert('L')))[shrink]
-    # img = img_as_float(io.imread(imName, as_grey=True))[shrink]
-    ref_feats[index, :, :] = compute_feats(img, kernels) # ref_feats numpy.ndarray
+    img = img_as_float(np.asarray(Image.open(imName).convert('L')))
+    feats[index, :, :] = compute_feats(img, kernels) # feats numpy.ndarray
+
+#feats = feats.reshape(len(imlist),feats.shape[1]*feats.shape[2])
 
 outputFeature = open('gaborFeature.pkl', 'wb')
-pickle.dump(ref_feats, outputFeature)
+pickle.dump(feats, outputFeature)
 outputFeature.close()
-print("--- finish extracting feature, it takes %s seconds ---" % (time.time() - start_extractTime))
+print("--- finish extracting feature---")
