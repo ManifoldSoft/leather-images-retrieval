@@ -43,12 +43,16 @@ def compute_feats(image, kernels):
 #            min_i = i
 #    return min_i
 
+#def rank(feats, ref_feats):
+#    dis = []
+#    for i in range(ref_feats.shape[0]):
+#        error = np.sum((feats - ref_feats[i, :])**2)
+#        dis = dis+[error]
+#    rankResult = sorted(range(len(dis)), key=lambda k: dis[k])
+#    return rankResult
+
 def rank(feats, ref_feats):
-    dis = []
-    for i in range(ref_feats.shape[0]):
-        error = np.sum((feats - ref_feats[i, :])**2)
-        dis = dis+[error]
-    rankResult = sorted(range(len(dis)), key=lambda k: dis[k])
+
     return rankResult
 
 
@@ -58,8 +62,7 @@ for theta in range(4):
     theta = theta / 4. * np.pi
     for sigma in (1, 3):
         for frequency in (0.05, 0.25):
-            kernel = np.real(gabor_kernel(frequency, theta=theta,
-                                          sigma_x=sigma, sigma_y=sigma))
+            kernel = np.real(gabor_kernel(frequency, theta=theta, sigma_x=sigma, sigma_y=sigma))
             kernels.append(kernel)
 
 imlist = get_imlist('./leatherImgs/')
@@ -70,8 +73,24 @@ inputFeature.close()
 
 img = img_as_float(np.asarray(Image.open(imlist[0]).convert('L')))
 
-feats = compute_feats(img, kernels)
-rankRes = rank(feats, ref_feats)
+#feat = compute_feats(img, kernels)
+#rankRes = rank(ref_feats[0], ref_feats)
+
+dis = []
+for i in range(ref_feats.shape[0]):
+    #error = math.sqrt(np.sum((feats - ref_feats[i, :])**2)) # sqrt()是递增函数
+    error = math.sqrt(np.sum((featsref_feats[0, :] - ref_feats[i, :])**2)) 
+    dis = dis+[error]
+rankResult = sorted(range(len(dis)), key=lambda k: dis[k])
+
+#feat = feat.reshape(1,feat.shape[0]*feat.shape[1])
+#meanColum = feat[:,0].mean()
+#sigmaColum = math.sqrt(feat[:,0].var())
+#sigmaColum = math.sqrt(feat[:,0].std())
+#feat[:,0] = feat[:,0]-feat[:,0].mean()
+#rankRes = rank(feat[0], ref_feats)
+
+#rankRes = rank(feat, ref_feats)
 
 # Plot search result images
 figure()

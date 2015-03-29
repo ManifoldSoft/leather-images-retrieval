@@ -20,6 +20,8 @@ from pylab import *
 
 import pickle
 
+import math
+
 
 def compute_feats(image, kernels):
     feats = np.zeros((len(kernels), 2), dtype=np.double)
@@ -31,12 +33,12 @@ def compute_feats(image, kernels):
 
 # prepare filter bank kernels
 kernels = []
-for theta in range(5):                       # This parameter decides what kind of features the filter responds to.
-    theta = theta / 5. * np.pi
-    for sigma in (1, 2, 3, 4):       #  This parameter controls the width of the Gaussian envelope used in the Gabor kernel. Here are a few results obtained by varying this parameter.
-        #for frequency in (0.05):
-        kernel = np.real(gabor_kernel(0.05, theta=theta, sigma_x=sigma, sigma_y=sigma))  
-        kernels.append(kernel)
+for theta in range(4):                       # This parameter decides what kind of features the filter responds to.
+    theta = theta / 4. * np.pi
+    for sigma in (1, 3):       #  This parameter controls the width of the Gaussian envelope used in the Gabor kernel. Here are a few results obtained by varying this parameter.
+        for frequency in (0.05, 0.25):
+            kernel = np.real(gabor_kernel(frequency, theta=theta, sigma_x=sigma, sigma_y=sigma))  
+            kernels.append(kernel)
 
 imlist = get_imlist('./leatherImgs/')
 # imlist = get_imlist('./Brodatz/')
@@ -48,7 +50,13 @@ for index,imName in enumerate(imlist):
     img = img_as_float(np.asarray(Image.open(imName).convert('L')))
     feats[index, :, :] = compute_feats(img, kernels) # feats numpy.ndarray
 
-#feats = feats.reshape(len(imlist),feats.shape[1]*feats.shape[2])
+# 进行归一化
+feats = feats.reshape(len(imlist),feats.shape[1]*feats.shape[2])
+for i in range(len(imlist)):
+    meancolum = feats[:,i].mean()
+    sigmacolum = math.sqrt(feats[:,i].var())
+    sigmacolum = math.sqrt(feats[:,i].std())
+    feats[:,i] = feats[:,i]-feats[:,i].mean()
 
 outputFeature = open('gaborFeature.pkl', 'wb')
 pickle.dump(feats, outputFeature)
